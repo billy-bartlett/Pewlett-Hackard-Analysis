@@ -38,9 +38,8 @@ To identify a list of employees eligible to participate in the mentorship progra
 ![picture alt](https://github.com/billy-bartlett/Pewlett-Hackard-Analysis/blob/main/Resources/Mentorship_program_table%20.png)
 
 
-One last thing I wanted to analyze was the number of employees that may be well suited for mentorship by senior employees. I decided employees who have been in their current position for 3 years or less would provide a good pool of candidates who may benefit from mentoring. To identify this pool, I created a view table that held all employees that fit my parameter. I then created a query to return these individuals in a table and set the "from_date" to descending order. Ordering the table this way allows us to see the employees who have been in their positions the least amount of time at the top of the table. 
+One last thing I wanted to analyze was the number of employees that may be well suited for mentorship by senior employees. I determined employees who have been in their current position for 3 years or less would provide a good pool of candidates who may benefit from mentoring. To identify this pool, I created a view table that held all employees that fit this parameter. I then created a query to return these individuals in a table and set the "from_date" to descending order. Ordering the table this way allows us to see the employees who have been in their positions the least amount of time at the top of the table. These employees should be prioritized for mentorship efforts. 
 
 ![picture alt](https://github.com/billy-bartlett/Pewlett-Hackard-Analysis/blob/main/Resources/Employees_eligible_for_mentorship.png)
 
 ![picture alt](https://github.com/billy-bartlett/Pewlett-Hackard-Analysis/blob/main/Resources/Employees_eligible_for_mentorship_table.png)
-
