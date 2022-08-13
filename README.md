@@ -31,7 +31,7 @@ Determining the number of retiring employees per title required multiple steps. 
 
 ![picture alt](https://github.com/billy-bartlett/Pewlett-Hackard-Analysis/blob/main/Resources/Retirement_employees_code.png)
 
-![picture alt](https://github.com/billy-bartlett/Pewlett-Hackard-Analysis/blob/main/Resources/Retirement_employees_table.png)
+![picture alt](https://github.com/billy-bartlett/Pewlett-Hackard-Analysis/blob/main/Resources/Unique_titles_table-head10%20.png)
 
 To identify a list of employees eligible to participate in the mentorship program, I joined three tables: employees, department_employees, and titles. I selected only the employees with birth dates between 1-1-1965 and 12-31-1965. I also only pulled employees who were currently employeed. See the code and the table below for reference. Please note, the table only displays the first 10 employees eligible to participate in the mentorship program. For an all-inclusive list, please see the csv titled "mentorship_eligibility."
 
